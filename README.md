@@ -25,12 +25,12 @@ This repository is the device support files for Xcode building the iOS App.
 ##### iOS 14
 
 - **Release**
-  - 14.3（Xcode_12.3（12C5020F）） `2020/11/12`
   - 14.2
   - 14.1（Xcode_12.1（12A7403）） `2020/10/23`
   - 14.0
   
 - **Beta**
+  - 14.3（Xcode_12.3（12C5020F）） `2020/11/12`
 
 ##### iOS 13
 
