@@ -1,5 +1,6 @@
 - [JJC_iOS_DeviceSupport](#JJC_iOS_DeviceSupport)
   - [DeviceSupport Path](#DeviceSupport-Path)
+  - [Others DeviceSupport Link](#Others-DeviceSupport-Link)
   - [Support Version](#Support-Version)
 
 
@@ -13,6 +14,11 @@ This repository is the device support files for Xcode building the iOS App.
 ```
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 ```
+
+### Others DeviceSupport Link
+
+- [iGhibli / iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)
+- [filsv / iPhoneOSDeviceSupport](https://github.com/filsv/iPhoneOSDeviceSupport)
 
 ### Support Version
 
