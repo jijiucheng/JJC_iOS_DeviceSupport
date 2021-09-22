@@ -18,7 +18,7 @@ This repository is the device support files for Xcode building the iOS App.
 
 | Version | Xcode | Release Time | Beta & Time |
 | :----: | :----: | :---- | :---- |
-| 15.0 | Xcode_13 | ... | 15.0（Xcode_13_beta5）<br>15.0（Xcode_13_beta4） `2021/08/03`<br>15.0（Xcode_13_beta3） `2021/07/16`<br>15.0（Xcode_13_beta2） `2021/07/01`<br>15.0（Xcode_13_beta） `2021/06/08` |
+| 15.0 | Xcode_13 | 15.0（Xcode_13.0(13A233)） | 15.0（Xcode_13_beta5）<br>15.0（Xcode_13_beta4） `2021/08/03`<br>15.0（Xcode_13_beta3） `2021/07/16`<br>15.0（Xcode_13_beta2） `2021/07/01`<br>15.0（Xcode_13_beta） `2021/06/08` |
 | 14.7.1 | Xcode_12.5.1 (12E507) | ... | ... |
 | 14.7 | Xcode_12.5.1 (12E507) | ... | ... |
 | 14.6 | Xcode_12.5.1 (12E507) | ... | ... |
