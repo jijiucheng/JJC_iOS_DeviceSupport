@@ -18,6 +18,7 @@ This repository is the device support files for Xcode building the iOS App.
 ### 版本说明
 
 - `RC` 版本是指 `Release Candidate` 正式版本的 `候选版本`，基本上不出意外，正式版本就是该版本。
+- [Xcode Release Notes](https://developer.apple.com/documentation/xcode-release-notes)
 - [Issues - Please DeviceSuport version 14.7? #160](https://github.com/iGhibli/iOS-DeviceSupport/issues/160)
 
 ### Others DeviceSupport Link
