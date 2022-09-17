@@ -18,7 +18,7 @@ This repository is the device support files for Xcode building the iOS App.
 
 ### Release Notes
 
-- [【重点】本项目版本说明](/Release%20Notes.md)
+- [【重点】本项目特殊版本说明](/Release%20Notes.md)
 - `RC` 版本是指 `Release Candidate` 正式版本的 `候选版本`，基本上不出意外，正式版本就是该版本。
 - [Xcode Release Notes](https://developer.apple.com/documentation/xcode-release-notes)
 - [iOS & iPadOS Release Notes](https://developer.apple.com/documentation/ios-ipados-release-notes)
