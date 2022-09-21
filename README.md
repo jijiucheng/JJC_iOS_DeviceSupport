@@ -35,7 +35,7 @@ This repository is the device support files for Xcode building the iOS App.
 
 | Version | Xcode | Release Time | Beta Time |
 | :----: | :----: | :---- | :---- |
-| 16.1 | Xcode_14.1 | ... | Xcode_14.1_beta（14B5024h） `2022/09/14`<br><br>iOS16.1_beta（20B5045d） `2022/09/14` |
+| 16.1 | Xcode_14.1 | ... | Xcode_14.1_beta2（14B5024i） `2022/09/20`<br>Xcode_14.1_beta（14B5024h） `2022/09/14`<br><br>iOS16.1_beta2（20B5050f） `2022/09/20`<br>iOS16.1_beta（20B5045d） `2022/09/14` |
 | 16.0.1 | Xcode_14.0.1 | iOS16.0.1（20A371） `2022/09/16` | Xcode_14.0.1_RC（14A400） `2022/09/16` |
 | 16.0 | Xcode_14.0 | Xcode_14.0（14A309） `2022/09/12`<br><br>iOS16.0（20A362） `2022/09/12` | Xcode_14.0_RC（14A309） `2022/09/07`<br>Xcode_14.0_beta6（14A5294g） `2022/08/23`<br>Xcode_14.0_beta5（14A5294e） `2022/08/08`<br>Xcode_14.0_beta4（14A5284g） `2022/07/27`<br>Xcode_14.0_beta3（14A5270f） `2022/07/06`<br>Xcode_14.0_beta2（14A5229c） `2022/06/22`<br>Xcode_14.0_beta（14A5228q） `2022/06/06` |
 | [15.6 ~ 15.7](/Release%20Notes.md) | Xcode_14.0<br>Xcode_13.4.1 | Xcode_14.0（14A309） `2022/09/12`<br>Xcode_13.4.1（13F100） `2022/06/02`<br><br>iOS15.7（19H12） `2022/09/12` | ... |
