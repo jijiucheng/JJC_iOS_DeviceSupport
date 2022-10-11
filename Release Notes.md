@@ -1,5 +1,5 @@
 [iOS Device Support Release Notes](#ios-device-support-release-notes)
-- [iOS16.0.1 ~ iOS16.0.2](#ios1601--ios1602)
+- [iOS16.0.1 ~ iOS16.0.3](#ios1601--ios1603)
 - [iOS15.6 ~ iOS15.7](#ios156--ios157)
 
 
@@ -7,9 +7,9 @@
 
 > iOS Device Support 版本说明
 
-### iOS16.0.1 ~ iOS16.0.2
+### iOS16.0.1 ~ iOS16.0.3
 
-- 经测试，直接使用 `16.0(Xcode_14.0(14A309)).zip` 即可正常调试。
+- 经测试，`iOS16.0.1 ~ iOS16.0.3` 直接使用 `16.0(Xcode_14.0(14A309)).zip` 即可正常调试。
 
 ### iOS15.6 ~ iOS15.7
 
