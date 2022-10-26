@@ -1,4 +1,5 @@
 [iOS Device Support Release Notes](#ios-device-support-release-notes)
+- [iOS16.2](#ios162)
 - [iOS16.0.1 ~ iOS16.0.3](#ios1601--ios1603)
 - [iOS15.7.1](#ios1571)
 - [iOS15.6 ~ iOS15.7](#ios156--ios157)
@@ -7,6 +8,10 @@
 ## iOS Device Support Release Notes
 
 > iOS Device Support 版本说明
+
+### iOS16.2
+
+- 根据 `Release Notes` 里显示，`iOS16.2_beta` 第一个版本是根据 `Xcode14.2_RC2（14B47b）` 进行打包发布的。
 
 ### iOS16.0.1 ~ iOS16.0.3
 
