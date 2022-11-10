@@ -1,5 +1,6 @@
 [iOS Device Support Release Notes](#ios-device-support-release-notes)
 - [iOS16.2](#ios162)
+- [iOS16.1.1](#ios1611)
 - [iOS16.0.1 ~ iOS16.0.3](#ios1601--ios1603)
 - [iOS15.7.1](#ios1571)
 - [iOS15.6 ~ iOS15.7](#ios156--ios157)
@@ -12,6 +13,11 @@
 ### iOS16.2
 
 - 根据 `Release Notes` 里显示，`iOS16.2_beta` 第一个版本是根据 `Xcode14.2_RC2（14B47b）` 进行打包发布的。
+
+### iOS16.1.1
+
+- **`2022.10.10 更新`**
+  - 昨天苹果官方突然发布了 `iOS16.1.1` 版本，但是并没有新发布任何对应的 Xcode 新版本，所以推测应该是使用了 `Xcode_14.1（14B47b）` 正式版发布了，所以使用 `16.1(Xcode_14.1(14B47b)).zip` 应该也是可以正常编译运行的（主要是尚未进行验证）。
 
 ### iOS16.0.1 ~ iOS16.0.3
 
