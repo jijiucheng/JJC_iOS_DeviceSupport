@@ -1,4 +1,5 @@
 [iOS Device Support Release Notes](#ios-device-support-release-notes)
+- [iOS16.3](#ios13)
 - [iOS16.2](#ios162)
 - [iOS16.1.1](#ios1611)
 - [iOS16.0.1 ~ iOS16.0.3](#ios1601--ios1603)
@@ -9,6 +10,11 @@
 ## iOS Device Support Release Notes
 
 > iOS Device Support 版本说明
+
+### iOS16.3
+
+- **`2022.12.16 更新：`**
+  - 在 `2022。12.14` 苹果官方发布了 `iOS16.3_beta（20D502e）` 版本，然而当下最新的 Xcode 版本仍是 `Xcode_14.2（14C18）`，所以应该是可以直接拿该版本进行使用的。
 
 ### iOS16.2
 
