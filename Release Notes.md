@@ -1,5 +1,5 @@
 [iOS Device Support Release Notes](#ios-device-support-release-notes)
-- [iOS16.3](#ios13)
+- [iOS16.3](#ios163)
 - [iOS16.2](#ios162)
 - [iOS16.1.1](#ios1611)
 - [iOS16.0.1 ~ iOS16.0.3](#ios1601--ios1603)
