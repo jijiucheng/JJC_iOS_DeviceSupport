@@ -1,4 +1,5 @@
 [iOS Device Support Release Notes](#ios-device-support-release-notes)
+- [iOS16.4](#ios164)
 - [iOS16.3 ~ iOS16.3.1](#ios163--ios1631)
 - [iOS16.2](#ios162)
 - [iOS16.1.1 ~ iOS16.1.2](#ios1611--ios1612)
@@ -10,6 +11,11 @@
 ## iOS Device Support Release Notes
 
 > iOS Device Support 版本说明
+
+### iOS16.4
+
+- **`2023.03.07 更新：`**
+  - 在 `2023.03.07` 苹果官方发布了 `iOS16.4_beta3（20E5229e）` 版本，然而此时的 Xcode 版本仍是 `Xcode14.3_beta2（14E5207e）`，所以 `iOS16.4_beta3` 是从 `iOS16.4_beta2` 中提取的版本。
 
 ### iOS16.3 ~ iOS16.3.1
 
