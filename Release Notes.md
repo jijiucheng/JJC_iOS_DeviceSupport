@@ -1,4 +1,5 @@
 [iOS Device Support Release Notes](#ios-device-support-release-notes)
+- [iOS17](#ios17)
 - [iOS16.6](#ios166)
 - [iOS16.5](#ios165)
 - [iOS16.4](#ios164--1641)
@@ -13,6 +14,11 @@
 ## iOS Device Support Release Notes
 
 > iOS Device Support 版本说明
+
+### iOS17
+
+- **`2023.06.05 更新：`**
+  - 在 `2023.06.05` 苹果官方发布了 `iOS17_beta（21A5248v）` 版本，而此时的 Xcode 版本是 `Xcode_15_beta（15A5160n）`，而从该版本 `Xcode` 中提取出的最新的 `Device Support` 文件仍是 `iOS16.4`，所以 `iOS17_beta` 是从 `iOS16.4（20E247）` 中提取的版本。
 
 ### iOS16.6
 
