@@ -1,6 +1,6 @@
 [iOS Device Support Release Notes](#ios-device-support-release-notes)
 
-- [iOS17.2](#ios172)
+- [iOS17.2 ~ iOS17.2.1](#ios172--ios1721)
 - [iOS17.1 ~ iOS17.1.2](#ios171--ios1712)
 - [iOS17 ~ iOS17.0.3](#ios17--ios1703)
 - [iOS16.7 ~ iOS16.7.2](#ios167--ios1673)
@@ -19,7 +19,7 @@
 
 > iOS Device Support 版本说明
 
-### iOS17.2
+### iOS17.2 ~ iOS17.2.1
 
 - **`2023.11.14 更新：`**
   - 在 `2023.11.14` 苹果官方发布了 `iOS17.2_beta3（21C5046c）` 版本，而此时的 Xcode 版本是 `Xcode_15.1_beta3（15C5059c）`，而从该版本 `Xcode` 中提取出的最新的 `Device Support` 文件仍是 `iOS16.4`，所以 `iOS17.2_beta3` 是从 `iOS16.4（20E247）` 中提取的版本。
