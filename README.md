@@ -35,6 +35,15 @@ This repository is the device support files for Xcode building the iOS App.
 - [Gitee - 邱邱邱同学 / iOSDeviceSupport](https://gitee.com/qiu1993/iOSDeviceSupport)
 - [Gitee - ios_shen / iOSDeviceSupport](https://gitee.com/ios_shen/iOSDeviceSupport)
 
+### Libarclite
+
+- `Xcode 15` 在某些 `CocoaPods` 中存在构建问题，因为其 `XcodeDefaults` 工具链内容中缺少 `.a` 文件。
+- 常见报错信息如下：`SDK does not contain 'libarclite' at the path '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphoneos.a'; try increasing the minimum deployment target`
+- **解决办法：**
+  - 1、将缺失文件拷贝放入 `/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/` 文件夹下；
+  - 2、如果没有该文件就手动创建该文件即可；
+  - 3、缺少哪种文件就将哪种文件放入该文件夹即可，建议将 `libarclite_iphonesimulator.a` 和 `libarclite_iphoneos.a` 两个文件优先放入其中，毕竟是最常用的。
+
 ### Support Version
 
 | Version | Xcode | Release Time | Beta Time |
